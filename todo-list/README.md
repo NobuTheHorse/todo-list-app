@@ -1,5 +1,7 @@
 # ReactJS Todo List App
 
+Name: Emmhan Russell D. Bantolin
+
 This is a simple React Todo List App that lets users add, complete, and delete todo items.
 
 ## Features
@@ -10,7 +12,7 @@ This is a simple React Todo List App that lets users add, complete, and delete t
 - Hosted on Vercel (or GitHub Pages)
 
 ## Live Demo
-[Click here to view the app](https://your-vercel-or-github-link)
+[Click here to view the app](https://todo-list-app-ruby-xi.vercel.app)
 
 ## Getting Started
-1. Clone the repo:
+1. Clone the repo: https://github.com/NobuTheHorse/todo-list-app.git
